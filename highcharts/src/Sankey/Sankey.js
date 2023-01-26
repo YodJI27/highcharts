@@ -14,7 +14,7 @@ const options = {
         text: ''
     },
     credits: {
-        text: 'Илья Шнырев',
+        text: 'Sankey',
         href: ''
     },
     series: [{

@@ -10,7 +10,7 @@ const options = {
     width: 550,
   },
   credits: {
-    text: "Илья Шнырев",
+    text: "Diagram",
     href: "",
   },
   plotOptions: {
