@@ -99,11 +99,7 @@ const options = {
 };
 
 const Diagram = () => {
-  return (
-    <div className="diagram">
-      <HighchartsReact highcharts={Highcharts} options={options} />
-    </div>
-  );
+  return <HighchartsReact highcharts={Highcharts} options={options} />;
 };
 
 export default Diagram;
